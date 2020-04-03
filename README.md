@@ -56,14 +56,5 @@
 
 + [Dod-o](https://github.com/Dod-o/Statistical-Learning-Method_Code)
 
-## 最后
 
-看我这么认真写了注释，还把视频教程分享了出来。给个 **star** 吧！
-
-扫个码我们做朋友吧！
-
-
-<div style="text-align: center">
-<img src="./images/wx.png"/>
-</div>
 
